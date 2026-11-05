@@ -1,0 +1,16 @@
+Metric,Value
+Total observations,8370.0
+Total columns,7.0
+Missing values,0.0
+Duplicate records,0.0
+Unique GDP levels,4.0
+Unique descriptions,43.0
+Unique series references,52.0
+Unique quarters,155.0
+Average Amount,3468.1304338112304
+Median Amount,1789.193
+Minimum Amount,95.438
+Maximum Amount,70996.972
+Amount skewness,5.552065092129451
+Amount kurtosis,34.02083716557344
+Weight-Amount correlation,0.9484038922752432
